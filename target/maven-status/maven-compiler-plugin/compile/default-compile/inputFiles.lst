@@ -1,0 +1,11 @@
+C:\tmp\registration-login-demo\src\main\java\com\test\registrationlogindemo\entity\User.java
+C:\tmp\registration-login-demo\src\main\java\com\test\registrationlogindemo\security\CustomUserDetailsService.java
+C:\tmp\registration-login-demo\src\main\java\com\test\registrationlogindemo\config\SpringSecurity.java
+C:\tmp\registration-login-demo\src\main\java\com\test\registrationlogindemo\controller\AuthController.java
+C:\tmp\registration-login-demo\src\main\java\com\test\registrationlogindemo\entity\Role.java
+C:\tmp\registration-login-demo\src\main\java\com\test\registrationlogindemo\service\UserService.java
+C:\tmp\registration-login-demo\src\main\java\com\test\registrationlogindemo\repository\RoleRepository.java
+C:\tmp\registration-login-demo\src\main\java\com\test\registrationlogindemo\service\impl\UserServiceImpl.java
+C:\tmp\registration-login-demo\src\main\java\com\test\registrationlogindemo\RegistrationLoginDemoApplication.java
+C:\tmp\registration-login-demo\src\main\java\com\test\registrationlogindemo\repository\UserRepository.java
+C:\tmp\registration-login-demo\src\main\java\com\test\registrationlogindemo\dto\UserDto.java
